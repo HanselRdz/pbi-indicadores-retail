@@ -50,5 +50,5 @@ Este proyecto simulado utiliza datos ficticios generados para representar el com
 ## 📞 Contacto
 
 Hansel Rodríguez    
-Consultor en BI & Analítica Avanzada    
+Consultor en BI & Analítica    
 (+52) 821 120 2696
