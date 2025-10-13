@@ -33,7 +33,7 @@ Este proyecto simulado utiliza datos ficticios generados para representar el com
 ## 🛠️ Herramientas utilizadas
 
 - **Power BI** para visualización interactiva.
-- **SQL Server** como fuente de datos estructurada (DWH).
+- **SQL Server** como fuente de datos estructurada (DWH). Dado que este proyecto está centrado principalmente en la visualización y el modelo semántico generado en Power BI, solamente se cuenta con el script que contiene la estructura de la base de datos, así como los registros contenidos en ella (comprimido en el archivo .RAR por cuestiones de espacio) por si se quieren realizar ejercicios o modificaciones.
 
 ---
 
